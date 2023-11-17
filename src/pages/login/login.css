@@ -1,0 +1,52 @@
+.login{
+  background-color: whitesmoke;
+  font-family: cursive;
+}
+.logo{
+  height: 80%;
+  width: 80%;
+  margin-left: 8%;
+  border-radius: 50%;
+}
+.login-container {
+  width: 400px;
+  margin: 100px auto;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgb(35, 69, 92);
+  color: black;
+}
+
+.frgt_pss{
+  text-align: right;
+}
+.sgn_up{
+  font-size: larger;
+  text-align: center;
+}
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.btn {
+  width: 100%;
+  padding: 10px 0;
+  margin-top: 20px;
+  border-radius: 5px;
+  background-color: #123F68;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #87BFCE;
+}
